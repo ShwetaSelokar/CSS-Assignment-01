@@ -1,0 +1,14 @@
+#text1{
+    color: brown;
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+#text2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.external{
+    color: brown;
+    letter-spacing: 4px;
+}
